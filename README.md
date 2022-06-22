@@ -2,8 +2,7 @@
 
 <h1 align="center">- 👋 Hi, I'm Zhibeka</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 ## Languages and Frameworks:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
